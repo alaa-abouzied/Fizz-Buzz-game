@@ -1,6 +1,6 @@
 # Fizz Buzz game
-**
-This is a game ask the user to entry a number and based on this number check if the given number is divided by 3 only, 5 only or both
+
+This is a game that asks the user to entry a number and based on this number check if the given number is divided by 3 only, 5 only or both
 and print the suitable sentence. Follow the below Rule.
 # The Rule
 1. If the number is dividedby 3 only ==“ fizz”
