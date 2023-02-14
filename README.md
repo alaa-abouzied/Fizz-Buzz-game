@@ -7,3 +7,7 @@ and print the suitable sentence. Follow the below Rule.
 2. Divided by 5 only ==“ buzz”
 3. Divided by 3 & 5 = “fizz buzz” ,
 4. Neither divided by 3 nor 5 ==“none”
+
+### Technologies we used :
+- HTML .
+- JavaScript .
